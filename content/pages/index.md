@@ -12,7 +12,7 @@ sections:
         style: primary
     image: images/1D7926CF-42B5-4071-8CE8-697785BC3EBD.jpeg
     image_alt: A smiling woman
-    media_position: right
+    media_position: left
     media_width: fifty
     align: left
     padding_top: large
