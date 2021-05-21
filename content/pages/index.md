@@ -107,16 +107,6 @@ sections:
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
-
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
