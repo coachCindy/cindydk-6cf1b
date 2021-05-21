@@ -63,7 +63,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Let's keep in touch
-        subtitle: 'Your products and services, at scale.'
+        subtitle: If you prefer we schedule
         content: |
           With this option you get 
         actions:
