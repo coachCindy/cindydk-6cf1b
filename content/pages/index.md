@@ -72,7 +72,7 @@ sections:
           If you choose this option you'll save 25% when purchasing at least 4
           sessions. 
         actions:
-          - label: I'm ready
+          - label: 'I''m ready to '
             url: /faq
             style: primary
             has_icon: true
