@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Cindy. I help you get...'
-    subtitle: |-
-      Motivation. Enhanced focus. Sustainable changes. Better 
-      relations.
+    subtitle: Clarity.Motivation. Enhanced focus. Sustainable changes. Better relations.
     actions:
       - label: Book here - 1st session is free
         url: /contact
