@@ -52,7 +52,7 @@ sections:
           desired topics and determine focus for our collaboration. Together we
           will create action plans and design accountability.
         actions:
-          - label: Just what I
+          - label: Just what I'm looking for
             url: /about
             style: secondary
             has_icon: true
