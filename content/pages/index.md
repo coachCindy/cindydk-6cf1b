@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Cindy. I help my clients succeed online.'
-    subtitle: XXXXXXXXXXXXXXXXX
+    subtitle: Motivation.
     actions:
       - label: Book here - 1st session is free
         url: /contact
