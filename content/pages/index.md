@@ -27,7 +27,7 @@ sections:
     subtitle: What I do
     features:
       - title: 1-1 Conversations
-        subtitle: Unsure about your needs or possibilities?
+        subtitle: Unsure about your possibilities?
         content: >
           If you're not quite sure how much coaching you want or need - this is
           the place to start. We can always customize a deal that suits you and
