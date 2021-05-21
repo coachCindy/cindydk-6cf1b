@@ -7,7 +7,7 @@ sections:
       Clarity. Motivation. Enhanced focus. Sustainable changes. Better
       relations.
     actions:
-      - label: Book here - 1st session is free
+      - label: Book here - 1st session is free (30 min)
         url: /contact
         style: primary
     image: images/1D7926CF-42B5-4071-8CE8-697785BC3EBD.jpeg
