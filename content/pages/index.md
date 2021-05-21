@@ -42,7 +42,7 @@ sections:
         image: images/marvelous-hedgehog.svg
         image_alt: Feature 1 illustration
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
       - title: Intensive deal
         subtitle: If you want more
         content: >-
