@@ -18,10 +18,9 @@ sections:
       proposal once we discuss the details.
 
 
+      Hourly rate (until June 30th. 2021): 
 
-      Hourly rate: $30 (45-60min)
-
-
+      $30 (45-60min)
 
     content_align: left
     form_position: left
