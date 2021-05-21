@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: left
         media_width: thirty-three
-      - title: Intense
+      - title: Even more...
         subtitle: If you want more
         content: >-
           Managing an online business is a full-time job. I will make sure your
