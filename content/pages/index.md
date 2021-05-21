@@ -62,7 +62,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Long-term package
+      - title: Let's keep in touch
         subtitle: 'Your products and services, at scale.'
         content: |
           With this option you get 
