@@ -33,7 +33,7 @@ sections:
           the place to start. We can always customize a deal that suits you and
           your goals.  No job is too big or small!
         actions:
-          - label: Book so we can talk
+          - label: 'Book so we can '
             url: /faq
             style: primary
             has_icon: true
