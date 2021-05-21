@@ -26,7 +26,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: 1-1 Conversations
+      - title: A little help...
         subtitle: Unsure about your possibilities?
         content: >
           If you're not quite sure how much coaching you want or need - this is
