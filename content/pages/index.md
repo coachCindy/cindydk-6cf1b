@@ -3,7 +3,13 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Cindy. I help my clients succeed online.'
-    subtitle: Motivation.
+    subtitle: >-
+      Motivation. I coach people who desire to enhance focus on goals,
+      motivation and 
+
+      awareness to gain sustainable changes and I help create better 
+
+      relations.
     actions:
       - label: Book here - 1st session is free
         url: /contact
