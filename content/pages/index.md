@@ -45,10 +45,12 @@ sections:
         media_width: thirty-three
       - title: Even more...
         subtitle: If you want in-depth coaching
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          This option gives you anything from half a day to several consecutive
+          days of me coaching you and/or your team. The intensive timeframe will
+          allow us to go in-depth when gaining clarity and awareness on the
+          desired topics and determine focus for our collaboration. Together we
+          will create action plans and design accountability.
         actions:
           - label: Learn More
             url: /about
