@@ -44,7 +44,7 @@ sections:
         media_position: left
         media_width: thirty-three
       - title: Even more...
-        subtitle: If you want more
+        subtitle: If you want in-depth coaching
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
