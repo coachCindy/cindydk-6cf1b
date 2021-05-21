@@ -28,10 +28,10 @@ sections:
     features:
       - title: 1-1 Conversations
         subtitle: Unsure about your needs?
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          If you're not quite sure how much coaching you want or need - this is
+          the place to start. We can always customize a deal that suits you and
+          your goals.  No job is too big or small!
         actions:
           - label: See Writing Samples
             url: /faq
