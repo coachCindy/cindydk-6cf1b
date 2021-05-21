@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Cindy. I help  go further.'
+    title: 'Hi, I’m Cindy. I help you go further.'
     subtitle: |-
       Motivation. Enhanced focus. Sustainable changes. Better 
       relations.
