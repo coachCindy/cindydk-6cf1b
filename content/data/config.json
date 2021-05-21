@@ -99,7 +99,7 @@
             {
                 "label": "LasseTest",
                 "url": "#",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true,
                 "icon": "reddit",
                 "icon_position": "right",
