@@ -63,7 +63,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Let's keep in touch
-        subtitle: If you prefer we schedule
+        subtitle: If you prefer recurring
         content: >
           With this option you get recurring sessions as often as you'd like.
           Once a week, every two weeks, once a month, more often - it's up to
