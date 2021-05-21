@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Book (1st sessions on me ;) )
         url: /contact
-        style: primary
+        style: secondary
     image: images/1D7926CF-42B5-4071-8CE8-697785BC3EBD.jpeg
     image_alt: A smiling woman
     media_position: left
