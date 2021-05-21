@@ -27,7 +27,7 @@ sections:
     subtitle: What I do
     features:
       - title: 1-1 Conversations
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Unsure about your needs?
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
