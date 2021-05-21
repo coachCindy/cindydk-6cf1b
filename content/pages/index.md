@@ -64,8 +64,13 @@ sections:
         media_width: sixty
       - title: Let's keep in touch
         subtitle: If you prefer we schedule
-        content: |
-          With this option you get 
+        content: >
+          With this option you get recurring sessions as often as you'd like.
+          Once a week, every two weeks, once a month, more often - it's up to
+          you!
+
+          If you choose this option you'll save 25% when purchasing at least 4
+          sessions. 
         actions:
           - label: See Past Work
             url: /faq
