@@ -30,12 +30,12 @@ layout: page
 ---
 ![](/\_static/app-assets/69B5AC3D-19F8-4AB0-B4A8-C23B3B25DF24.jpg)
 
-The only thing I love more than self-development is meeting a new client and figuring out together how we can create sustainable change for them. Working on a freelance coach basis exposes me to many types of people from all sorts of professions. 
+The only thing I love more than self-development is meeting a new client and figuring out together how we can create sustainable change for them. Working on a freelance coach basis exposes me to many types of people from all sorts of professions.
 
 ## Credentials
 
-I am a certified transformative coach trained by Coach Masters Academy in Singapore. I study a BA in public administration with specialty in project management, HR and executive management on the side. My work experience includes personel management, recruitment, training, being chairman of boards etc.
+I am a certified transformative coach trained by Coach Masters Academy in Singapore. I study a BA in public administration with specialty in project management, HR and executive management on the side. My work experience includes personel management, recruitment, training, being a hotel receptionist and chairman of boards etc. 
 
-## Writing for Action
+## Coaching for Action
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+I believe it's better to be an original because it's worth more than a copy. By gaining awareness and clarity you can create action plans and design accountability on how to reach your goals. 
