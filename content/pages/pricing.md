@@ -86,10 +86,15 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: How does this work?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          First step is a free meet 'n greet session where we determine what
+          focus you want in the coaching sessions. This can happen either online
+          or in person if you are located in Denmark. 
+
+
+
+          After that you get to decide which package suits you and your life
+          best.
       - title: How can I pay?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
