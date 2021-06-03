@@ -68,8 +68,8 @@ sections:
           Once a week, every two weeks, once a month, more often - it's up to
           you!
 
-          If you choose this option you'll save 25% when purchasing at least 4
-          sessions. 
+          If you choose this option you'll save 25% when purchasing at least 5
+          sessions.
         actions:
           - label: I'm ready to do this
             url: /faq
