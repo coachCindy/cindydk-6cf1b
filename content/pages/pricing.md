@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: A little help
-        subtitle: Optional subtitle
+        subtitle: Let's talk
         title_align: left
         content: |
           ***
