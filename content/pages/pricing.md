@@ -30,7 +30,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: Even more
         subtitle: Optional subtitle
         title_align: left
         content: |-
