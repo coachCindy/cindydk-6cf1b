@@ -33,18 +33,18 @@ sections:
       - title: Even more
         subtitle: If you want in-depth coaching
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
           ### $19
 
-          per month, billed yearly
+          billed per hour agreed opon beforehand
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Fringilla diam magnis libero lacinia
+          *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - label: Start with Premium
