@@ -105,7 +105,7 @@ sections:
       - title: In which language can I get coached?
         content: |
           I offer coaching in either English or Danish.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Is it possible to reschedule or cancel if I need to do so?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
