@@ -25,7 +25,7 @@ sections:
           *   Nisi cubilia interdum ultricies
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Start with a little help
             url: /features
             style: primary
         actions_align: left
