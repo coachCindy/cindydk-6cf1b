@@ -96,10 +96,13 @@ sections:
           After that you get to decide which package suits you and your life
           best.
       - title: How can I pay?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Either through Paypal or MobilePay. 
+
+
+
+          If you sign up for a long-term package with a minimium of 5 sessions
+          you save 25%. 
       - title: What is your privacy policy?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
