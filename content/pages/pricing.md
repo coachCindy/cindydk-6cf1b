@@ -112,7 +112,7 @@ sections:
           tellus. Non enim praesent elementum facilisis.
       - title: In which language can I get coached?
         content: |
-          I offer coaching in either English or Danish.
+          I offer coaching in English or Danish.
       - title: Is it possible to reschedule or cancel if I need to do so?
         content: |
           Absolutely!
