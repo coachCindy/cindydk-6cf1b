@@ -103,11 +103,8 @@ sections:
           nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
           tellus. Non enim praesent elementum facilisis.
       - title: In which language can I get coached?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: |
+          I offer coaching in either English or Danish.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
