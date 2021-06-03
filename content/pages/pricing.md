@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Even more
-        subtitle: Optional subtitle
+        subtitle: If you want in-depth coaching
         title_align: left
         content: |-
           ---
