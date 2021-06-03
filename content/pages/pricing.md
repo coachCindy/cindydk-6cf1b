@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pick Your Plan
-    subtitle: Optional hero section subtitle
+    subtitle: It's your life
     align: center
     padding_top: large
     padding_bottom: small
