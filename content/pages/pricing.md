@@ -55,18 +55,18 @@ sections:
       - title: Long-term
         subtitle: If you prefer recurring
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
           ### $39
 
-          per month, billed yearly
+          per month, billed every 4 weeks
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - label: Save 25% when buying min.5 sessions
