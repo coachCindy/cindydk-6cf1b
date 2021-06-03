@@ -30,7 +30,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Even more
+      - title: Extra
         subtitle: If you want in-depth coaching
         title_align: left
         content: |
