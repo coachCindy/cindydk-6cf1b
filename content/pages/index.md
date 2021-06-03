@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: left
         media_width: thirty-three
-      - title: Even more...
+      - title: Extra...
         subtitle: If you want in-depth coaching
         content: >
           This option gives you anything from half a day to several consecutive
