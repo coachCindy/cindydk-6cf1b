@@ -47,7 +47,7 @@ sections:
           *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
-          - label: Sign up for some extra
+          - label: Sign up for extra help
             url: /features
             style: primary
         actions_align: left
