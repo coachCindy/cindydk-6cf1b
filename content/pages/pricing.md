@@ -106,10 +106,10 @@ sections:
         content: |
           I offer coaching in either English or Danish.
       - title: Is it possible to reschedule or cancel if I need to do so?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: |
+          Absolutely!
+
+          Let me know as soon as possible so we can find a better time for you. 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
