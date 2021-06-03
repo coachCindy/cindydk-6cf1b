@@ -38,7 +38,7 @@ sections:
 
           ### $19
 
-          billed per hour agreed opon beforehand
+          billed per hour - agreed opon beforehand
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
