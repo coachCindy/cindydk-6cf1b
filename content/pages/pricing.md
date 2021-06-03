@@ -104,12 +104,12 @@ sections:
           If you sign up for a long-term package with a minimium of 5 sessions
           you save 25%. 
       - title: What is your privacy policy?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Al personal information will be handled according GDPR regulations in
+          EU. Contact information given through this site will only be saved for
+          as long as it is needed for communicating regarding ongoing
+          collaborations. If you wish to have your data deleted simply send me
+          an email containing your wish. 
       - title: In which language can I get coached?
         content: |
           I offer coaching in English or Danish.
