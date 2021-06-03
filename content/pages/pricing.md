@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Long-term
-        subtitle: Optional subtitle
+        subtitle: If you prefer recurring
         title_align: left
         content: |-
           ---
