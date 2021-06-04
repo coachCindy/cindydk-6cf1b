@@ -59,9 +59,9 @@ sections:
         content: |
           ***
 
-          ### $39
+          ### $60
 
-          per month, billed every 4 weeks
+          billed every 4 weeks
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
