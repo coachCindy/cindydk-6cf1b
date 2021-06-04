@@ -60,7 +60,7 @@ sections:
 
           ### $60
 
-          billed every 4 weeks
+          per hour - billed every 4 weeks
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
