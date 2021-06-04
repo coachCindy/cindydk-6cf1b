@@ -33,18 +33,19 @@ sections:
       - title: Extra
         subtitle: If you want in-depth coaching
         title_align: left
-        content: |
+        content: |+
           ***
 
-          ### $19
+          ### $50
 
-          billed per hour - agreed opon beforehand
+          billed per hour - estimated and agreed opon beforehand
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
-          *   Litora primis facilisis ullamcorper per
+          *   From half a day to several consecutive days
+          *   Concentrated coaching of you and/or your team
+          *   Back-to-back hours allows for in-depth work
+          *   Time to create thorough action plans
+          *   If you don't want to wait
+
         content_align: left
         actions:
           - label: Sign up for extra help
