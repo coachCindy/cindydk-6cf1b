@@ -33,10 +33,10 @@ sections:
       - title: Extra
         subtitle: If you want in-depth coaching
         title_align: left
-        content: |+
+        content: |
           ***
 
-          ### $50
+          ### $75
 
           billed per hour - estimated and agreed opon beforehand
 
@@ -45,7 +45,6 @@ sections:
           *   Back-to-back hours allows for in-depth work
           *   Time to create thorough action plans
           *   If you don't want to wait
-
         content_align: left
         actions:
           - label: Sign up for extra help
