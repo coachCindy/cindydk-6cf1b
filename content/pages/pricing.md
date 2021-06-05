@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Ready for change?
     subtitle: It's your life
     align: center
     padding_top: large
