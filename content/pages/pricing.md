@@ -27,25 +27,6 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-      - title: Extra
-        subtitle: If you want in-depth coaching
-        title_align: left
-        content: |
-          ***
-
-          ### $75
-
-          billed per hour - estimated and agreed opon beforehand
-
-          *   From half a day to several consecutive days
-          *   Concentrated coaching of you and/or your team
-          *   Back-to-back hours allows for in-depth work
-          *   Time to create thorough action plans
-          *   If you don't want to wait
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: full-width
       - title: Long-term
         subtitle: If you prefer recurring
         title_align: left
