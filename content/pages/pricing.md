@@ -31,6 +31,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        image_align: center
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
