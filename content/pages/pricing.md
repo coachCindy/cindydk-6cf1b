@@ -43,10 +43,7 @@ sections:
           *   Time to create thorough action plans
           *   If you don't want to wait
         content_align: left
-        actions:
-          - label: Sign up for extra help
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Long-term
