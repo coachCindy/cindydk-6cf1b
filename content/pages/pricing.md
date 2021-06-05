@@ -26,7 +26,7 @@ sections:
         actions_width: full-width
         image_align: center
         image_position: left
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
