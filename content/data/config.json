@@ -19,7 +19,7 @@
             },
             {
                 "label": "Home",
-                "url": "/",
+                "url": "/ho",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
