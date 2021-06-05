@@ -45,11 +45,9 @@ sections:
       - title: Pricing
         subtitle: Depends on
         title_align: left
-        content: >
-          *   you and your goals.
-
-          *   Whether you want an intensive collaboration with a short time
-          frame or stretched across weeks and months.
+        content: |
+          *
+          *
         content_align: left
         actions:
           - label: Save 25% when buying min.5 sessions
