@@ -32,7 +32,7 @@ sections:
     enable_cards: true
     padding_top: small
     padding_bottom: medium
-    has_border: false
+    has_border: true
     background_color: none
     align: left
   - type: grid_section
