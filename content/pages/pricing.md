@@ -24,7 +24,7 @@ sections:
           *   Elementum eu rhoncus, volutpat
           *   Nisi cubilia interdum ultricies
           *   Feugiat porta tortor
-        content_align: left
+        content_align: center
         actions:
           - label: Save 25% when buying min.5 sessions
             url: /features
