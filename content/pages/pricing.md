@@ -17,7 +17,7 @@ sections:
 
           *   Whether you want an intensive collaboration with a short time
           frame or stretched across weeks and months.
-        content_align: center
+        content_align: left
         actions:
           - label: Save 25% when buying min.5 sessions
             url: /features
