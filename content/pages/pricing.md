@@ -28,7 +28,7 @@ sections:
         image_position: left
     grid_cols: three
     grid_gap_horiz: small
-    grid_gap_vert: small
+    grid_gap_vert: medium
     enable_cards: true
     padding_top: small
     padding_bottom: medium
