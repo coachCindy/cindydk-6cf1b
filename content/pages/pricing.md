@@ -33,7 +33,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     has_border: true
-    background_color: none
+    background_color: primary
     align: center
   - type: grid_section
     title: 'You asked, I answered!'
