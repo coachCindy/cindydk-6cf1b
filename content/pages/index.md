@@ -53,7 +53,7 @@ sections:
           will create action plans and design accountability.
         actions:
           - label: Just what I'm looking for
-            url: /about
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
