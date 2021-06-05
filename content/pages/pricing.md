@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Pricing
-        subtitle: If you prefer recurring
+        subtitle: Depends on
         title_align: left
         content: |
           ***
