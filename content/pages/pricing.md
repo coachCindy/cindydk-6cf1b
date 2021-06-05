@@ -24,10 +24,7 @@ sections:
           *   Elementum eu rhoncus, volutpat
           *   Nisi cubilia interdum ultricies
         content_align: left
-        actions:
-          - label: Start with a little help
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Extra
