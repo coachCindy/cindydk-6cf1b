@@ -34,7 +34,7 @@ sections:
           your goals.  No job is too big or small!
         actions:
           - label: Let's get started
-            url: /
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
