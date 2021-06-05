@@ -12,18 +12,13 @@ sections:
       - title: Pricing
         subtitle: Depends on
         title_align: left
-        content: |
-          ***
+        content: >
 
-          ### $60
 
-          per hour - billed every 4 weeks
+          *   Depends on you and your goals. 
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
-          *   Feugiat porta tortor
+          *   Whether you want an intensive collaboration with a short time
+          frame or stretched across weeks and months. 
         content_align: center
         actions:
           - label: Save 25% when buying min.5 sessions
