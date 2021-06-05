@@ -14,13 +14,11 @@ sections:
       ## Pricing
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      depends on
 
 
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      *   *   you and your goals*   Whether you want an intensive collaboration
+      with a short time frame or stretched across weeks and months.
     content_align: left
     form_position: bottom
     form_width: fifty
