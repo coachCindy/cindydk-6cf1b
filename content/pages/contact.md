@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >+
+    content: >
       ## Pricing
 
 
@@ -18,10 +18,9 @@ sections:
       proposal once we discuss the details.
 
 
-      Hourly rate (until June 30th. 2021): 
+      Hourly rate (until June 30th. 2021):
 
-      $30 (45-60min)
-
+      $45 (45-60min)
     content_align: left
     form_position: left
     form_width: fifty
