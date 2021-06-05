@@ -72,7 +72,7 @@ sections:
           sessions.
         actions:
           - label: I'm ready to do this
-            url: /faq
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
