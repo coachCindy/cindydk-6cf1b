@@ -17,8 +17,11 @@ sections:
       depends on
 
 
-      *   *   you and your goals*   Whether you want an intensive collaboration
-      with a short time frame or stretched across weeks and months.
+      *   you and your goals
+
+
+      *   Whether you want an intensive collaboration with a short time frame or
+      stretched across weeks and months.
     content_align: left
     form_position: bottom
     form_width: fifty
