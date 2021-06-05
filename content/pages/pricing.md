@@ -8,7 +8,6 @@ sections:
     padding_top: large
     padding_bottom: small
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     title_align: left
     content: >
       ## Pricing
