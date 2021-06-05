@@ -25,7 +25,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
-    form_action: 'Contact '
+    form_action: Contact me
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
