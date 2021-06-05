@@ -7,8 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-  - title: lorem-ipsum
-    title_align: left
+  - title_align: left
     content: >
       ## Pricing
 
