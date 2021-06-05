@@ -27,7 +27,7 @@ sections:
     form_id: lorem-ipsum
     form_action: Contact me
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: Send me a message
     align_vert: top
     padding_top: medium
     padding_bottom: medium
