@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Long-term
+      - title: Pricing
         subtitle: If you prefer recurring
         title_align: left
         content: |
