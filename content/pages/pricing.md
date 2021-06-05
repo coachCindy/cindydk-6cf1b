@@ -34,7 +34,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    align: right
+    align: left
   - type: grid_section
     title: 'You asked, I answered!'
     grid_items:
