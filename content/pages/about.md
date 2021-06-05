@@ -40,4 +40,8 @@ I am a certified transformative coach trained by Coach Masters Academy in Singap
 
 First I help you gain awareness and clarity about what you want to change, to make a sustainable change we then create action plans and design accountability for you to reach you goals.
 
+## Enneagram
+
+I am very passionate about the Enneagram approach and I plan on becoming a practitioner within the next year. The Enneagram is a nine-sided figure used in a particular system of analysis to represent the spectrum of possible personality types. The Enneagram helps us understand how people react to stress. By describing how each Enneatype adapts and responds to both stressful and supportive situations, the Enneagram shows opportunities for personal development and provides a foundation for the understanding of others. It can be a great tool to navigate and improve one's human relations.
+
 I believe it's better to be an original because it's worth more than a copy :)
