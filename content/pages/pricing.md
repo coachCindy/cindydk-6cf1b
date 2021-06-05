@@ -39,32 +39,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - type: grid_section
-    grid_items:
-      - title: Pricing
-        subtitle: Depends on
-        title_align: left
-        content: |
-          *
-          *
-        content_align: left
-        actions:
-          - label: Save 25% when buying min.5 sessions
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
-        image_align: center
-        image_position: left
-    grid_cols: two
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    has_border: true
-    background_color: primary
-    align: center
-  - type: grid_section
     title: 'You asked, I answered!'
     grid_items:
       - title: How does this work?
