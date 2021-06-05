@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![](/\_static/app-assets/69B5AC3D-19F8-4AB0-B4A8-C23B3B25DF24.jpg)
+![](/\_static/app-assets/69B5AC3D-19F8-4AB0-B4A8-C23B3B25DF24.png)
 
 The only thing I love more than self-development is meeting a new client and figuring out together how we can create sustainable change for them. Working as a freelance coach exposes me to many types of people from all sorts of professions.
 
