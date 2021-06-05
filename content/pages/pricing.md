@@ -9,24 +9,6 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: A little help
-        subtitle: Let's talk
-        title_align: left
-        content: |
-          ***
-
-          ### $9
-
-          per hour, billed XXXX
-
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: full-width
       - title: Long-term
         subtitle: If you prefer recurring
         title_align: left
