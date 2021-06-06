@@ -2,7 +2,7 @@
     "title": "CINDY.dk",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "bold",
     "palette": "red",
     "mode": "light",
     "base_font": "serif",
