@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "red",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Home",
         "logo": "images/chat-bubbles-couple-hand-drawn-outlines-svgrepo-com.svg",
