@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Ready for change?
-    subtitle: It's your life
+    subtitle: It's your life - level up
     align: center
     padding_top: large
     padding_bottom: small
