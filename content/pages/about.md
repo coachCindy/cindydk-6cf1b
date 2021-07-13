@@ -34,7 +34,7 @@ The only thing I love more than self-development is meeting a new client and fig
 
 ## Credentials
 
-I am a certified transformative coach trained by Coach Masters Academy in Singapore. I study a BA in public administration with specialty in project management, HR and executive management on the side. My work experience includes personel management, recruitment, training, being a hotel receptionist and chairman of boards.
+I am a certified transformative coach trained by Coach Masters Academy in Singapore. I study a BA in public administration with specialty in project management, HR and executive management on the side - next to getting certified as a project manager with Google. My work experience includes personel management, recruitment, training, being a hotel receptionist and chairman of boards.
 
 ## Coaching for Action
 
