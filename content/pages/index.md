@@ -99,7 +99,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Cindy.dk - Level up
-  description: Transformational coach
+  description: Clarity. Motivation. Enhanced focus. Sustainable changes. Better relations!
   extra:
     - name: 'og:type'
       value: website
