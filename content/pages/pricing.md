@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: SUMMER
 sections:
   - type: hero_section
     title: Ready for change?
