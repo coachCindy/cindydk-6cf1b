@@ -1,5 +1,5 @@
 ---
-title: 'SUMMER '
+title: SUMMER OFFER
 sections:
   - type: hero_section
     title: Ready for change?
