@@ -123,7 +123,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: /_static/app-assets/RightSizePic.png
       relativeUrl: true
 layout: advanced
 ---
