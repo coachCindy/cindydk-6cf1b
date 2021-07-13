@@ -52,8 +52,14 @@ sections:
           Either through Paypal or MobilePay.
 
 
-          ##### If you sign up for a long-term package with a minimium of 5
-          sessions you save 25%.&#xA;&#xA;&#xA;&#xA;SUMMER OFFER:&#xA;
+          If you sign up for a long-term package with a minimium of 5 sessions
+          you save 25%.
+
+
+
+
+          **SUMMER OFFER:**
+
 
 
           #### $45 per session&#xA;&#xA;(offer ends on August 31st 2021)
