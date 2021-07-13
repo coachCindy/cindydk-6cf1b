@@ -49,12 +49,14 @@ sections:
           best.
       - title: How can I pay?
         content: >
-          Either through Paypal or MobilePay. 
+          Either through Paypal or MobilePay.
 
 
+          ##### If you sign up for a long-term package with a minimium of 5
+          sessions you save 25%.&#xA;&#xA;&#xA;&#xA;SUMMER OFFER:&#xA;
 
-          If you sign up for a long-term package with a minimium of 5 sessions
-          you save 25%. 
+
+          #### $45 per session&#xA;&#xA;(offer ends on August 31st 2021)
       - title: What is your privacy policy?
         content: >
           Al personal information will be handled according GDPR regulations in
