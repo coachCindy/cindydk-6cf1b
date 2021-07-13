@@ -35,7 +35,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: $45 per session
-    subtitle: lorem-ipsum
+    subtitle: SUMMER OFFER
     features: []
     feature_padding_vert: medium
     align: center
