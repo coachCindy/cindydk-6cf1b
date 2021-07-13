@@ -38,7 +38,7 @@ I am a certified transformative coach trained by Coach Masters Academy in Singap
 
 ## Coaching for Action
 
-First I help you gain awareness and clarity about what you want to change, to make a sustainable change we then create action plans and design accountability for you to reach you goals.
+First I help you gain awareness and clarity about what you want to change, then to make a sustainable change we create action plans and design accountability for you to reach your goals.
 
 ## Enneagram
 
