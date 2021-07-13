@@ -56,13 +56,13 @@ sections:
           you save 25%.
 
 
-
-
           **SUMMER OFFER:**
 
 
+          $45 per session
 
-          #### $45 per session&#xA;&#xA;(offer ends on August 31st 2021)
+
+          (offer ends on August 31st 2021)
       - title: What is your privacy policy?
         content: >
           Al personal information will be handled according GDPR regulations in
