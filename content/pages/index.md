@@ -108,7 +108,9 @@ seo:
       value: Cindy.dk - Level up
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Clarity. Motivation. Enhanced focus. Sustainable changes. Better
+        relations.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/RightSizePic.png
