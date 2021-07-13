@@ -121,7 +121,9 @@ seo:
     - name: 'twitter:title'
       value: Cindy.dk - Level up
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: >-
+        Clarity. Motivation. Enhanced focus. Sustainable changes. Better
+        relations.
     - name: 'twitter:image'
       value: /_static/app-assets/RightSizePic.png
       relativeUrl: true
