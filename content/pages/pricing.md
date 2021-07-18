@@ -48,7 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/toni-cuenca-55MySYrKf5w-unsplash.jpg
+    background_image: images/raphael-biscaldi-7RQf2X6aXXI-unsplash.jpg
   - type: grid_section
     title: 'You asked, I answered!'
     grid_items:
