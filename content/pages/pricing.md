@@ -52,6 +52,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
   - title_align: center
     content: >
       ## Pricing
