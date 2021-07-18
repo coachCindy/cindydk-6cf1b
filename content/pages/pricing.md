@@ -22,8 +22,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
-  - subtitle: Until August
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
