@@ -25,7 +25,7 @@ sections:
     form_fields: []
     submit_label: Send me a message to connect
     align_vert: bottom
-    padding_top: medium
+    padding_top: none
     padding_bottom: none
     has_border: true
     background_color: none
