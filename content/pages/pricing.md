@@ -22,7 +22,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
-  - title: lorem-ipsum
+  - title: Summer
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
