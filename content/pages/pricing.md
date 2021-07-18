@@ -8,9 +8,9 @@ sections:
     padding_top: large
     padding_bottom: small
   - content: |
-      ## **Summer offer: $45 per session**
+      # **Summer offer: $45 per session**
 
-      **Until August 31'st 2021.**
+      ## **Until August 31'st 2021.**
     actions: []
     image_alt: lorem-ipsum
     media_position: top
