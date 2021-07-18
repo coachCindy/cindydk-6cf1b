@@ -97,7 +97,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - title: lorem-ipsum
+  - title: It's your life - level up
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
