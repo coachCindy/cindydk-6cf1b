@@ -23,9 +23,9 @@ sections:
     type: features_section
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
   - content: |
-      ## Summer offer: $45 per session
+      ## **Summer offer: $45 per session**
 
-      Until August 31'st 2021.
+      **Until August 31'st 2021.**
     actions: []
     image_alt: lorem-ipsum
     media_position: top
