@@ -37,7 +37,7 @@ sections:
     form_action: Contact me
     form_fields: []
     submit_label: Send me a message to connect
-    align_vert: top
+    align_vert: middle
     padding_top: small
     padding_bottom: small
     has_border: false
