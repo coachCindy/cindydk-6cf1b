@@ -21,7 +21,6 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
   - content: |
       ## **Summer offer: $45 per session**
 
