@@ -15,7 +15,7 @@ sections:
       Depends on you and your goals and whether you want an intensive
       collaboration with a short time frame or stretched across weeks and
       months.
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
