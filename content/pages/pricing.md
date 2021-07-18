@@ -20,7 +20,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: false
-    form_id: lorem-ipsum
+    form_id: kk
     form_action: Contact me
     form_fields:
       - input_type: text
