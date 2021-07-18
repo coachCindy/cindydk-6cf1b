@@ -24,13 +24,7 @@ sections:
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
   - title_align: center
     content: >
-      ## Summer offer; $45 per session
-
-
-      Normal price $100 per session.
-
-
-      ## &#xA;Pricing
+      ## Pricing
 
 
       Depends on you and your goals and whether you want an intensive
