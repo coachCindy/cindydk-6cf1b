@@ -24,7 +24,7 @@ sections:
     form_action: Contact me
     form_fields: []
     submit_label: Send me a message to connect
-    align_vert: top
+    align_vert: bottom
     padding_top: medium
     padding_bottom: none
     has_border: true
