@@ -49,7 +49,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/derick-mckinney-GhX9SH0bNcc-unsplash.jpg
+    background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
 seo:
   title: Pricing
   description: This is the pricing page
