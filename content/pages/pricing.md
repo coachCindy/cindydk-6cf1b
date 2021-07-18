@@ -34,7 +34,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    subtitle: ddddd
   - title: 'SUMMER OFFER: $45 per session'
     subtitle: until Aug. 31st. 2021 (not valid on long-term agreements)
     features: []
