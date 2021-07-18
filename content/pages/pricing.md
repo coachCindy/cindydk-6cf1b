@@ -26,7 +26,7 @@ sections:
     submit_label: Send me a message to connect
     align_vert: bottom
     padding_top: small
-    padding_bottom: none
+    padding_bottom: small
     has_border: true
     background_color: none
     background_image_opacity: 0
