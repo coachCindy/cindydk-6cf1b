@@ -96,7 +96,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; CINDY.dk -  coach@cindy.dk "
+        "content": "&copy; CINDY.dk -  coach@cindy.dk ",
+        "tertiary_nav_title": "It's your life - level up"
     },
     "domain": "https://cindydk-6cf1b.netlify.app"
 }
