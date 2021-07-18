@@ -22,6 +22,19 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     background_image: images/Cindy-Legarth-black-letters-cropped.png
+  - title: It's your life - level up
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
@@ -97,19 +110,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - title: It's your life - level up
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 seo:
   title: Cindy.dk - Level up
   description: Clarity. Motivation. Enhanced focus. Sustainable changes. Better relations!
