@@ -12,7 +12,7 @@ sections:
 
       ### **Until August 31'st 2021.**
 
-      **Save $55 with this offer, regular price is normally $100**
+      **Save $55 with this offer, regular price is $100**
     actions: []
     image_alt: lorem-ipsum
     media_position: top
