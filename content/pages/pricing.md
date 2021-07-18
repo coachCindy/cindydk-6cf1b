@@ -18,7 +18,7 @@ sections:
     background_color: none
     background_image_opacity: 0
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: left center
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
