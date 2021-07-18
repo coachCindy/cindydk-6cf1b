@@ -22,7 +22,14 @@ sections:
     enable_card: false
     form_id: lorem-ipsum
     form_action: Contact me
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Send me a message to connect
     align_vert: bottom
     padding_top: small
