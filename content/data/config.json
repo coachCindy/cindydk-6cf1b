@@ -29,11 +29,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact me",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link",
