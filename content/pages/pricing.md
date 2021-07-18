@@ -14,7 +14,7 @@ sections:
 
       **Save $55 with this offer, regular price is $100**
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: Beach background
     media_position: top
     media_width: fifty
     align: left
