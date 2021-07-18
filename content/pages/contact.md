@@ -9,18 +9,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
-      ## Pricing
-
-
-      After the free 30-minute call I will be able to provide you with ballpark
-      pricing, if you choose more than 1 conversation I will send you a detailed
-      proposal once we discuss the details.
-
-
-      Hourly rate (until Aug.31 st. 2021):
-
-      $45 (45-60min)
     content_align: left
     form_position: left
     form_width: fifty
