@@ -14,7 +14,8 @@ sections:
 
       Depends on you and your goals and whether you want an intensive
       collaboration with a short time frame or stretched across weeks and
-      months.
+      months. Other options could be coaching for your team at work or you and
+      your partner wanting relationship coaching. 
     content_align: center
     form_position: right
     form_width: fifty
