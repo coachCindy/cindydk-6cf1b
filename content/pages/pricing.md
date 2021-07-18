@@ -28,7 +28,7 @@ sections:
       Hourly rate (until Aug.31 st. 2021):
 
       $45 (45-60min)
-    content_align: center
+    content_align: left
     form_position: right
     form_width: fifty
     form_layout: inline
