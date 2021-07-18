@@ -16,7 +16,7 @@ sections:
       collaboration with a short time frame or stretched across weeks and
       months.
     content_align: center
-    form_position: right
+    form_position: top
     form_width: fifty
     form_layout: stacked
     enable_card: false
