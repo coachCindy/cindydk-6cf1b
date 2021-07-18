@@ -22,7 +22,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
-  - title: Summer
+  - title: 'Summer offer: $45 per session'
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
