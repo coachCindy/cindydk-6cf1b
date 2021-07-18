@@ -34,7 +34,7 @@
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "/pricing",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
