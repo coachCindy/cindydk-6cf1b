@@ -56,8 +56,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/raphael-biscaldi-7RQf2X6aXXI-unsplash.jpg
-  - title: Pricing
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     title_align: left
     content: >
       ## Pricing
