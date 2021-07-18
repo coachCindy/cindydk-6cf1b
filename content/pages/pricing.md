@@ -59,17 +59,13 @@ sections:
   - title: Pricing
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Pricing
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Depends on you and your goals and whether you want an intensive
+      collaboration with a short time frame or stretched across weeks and
+      months.
     content_align: left
     form_position: bottom
     form_width: fifty
