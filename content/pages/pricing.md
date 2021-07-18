@@ -12,7 +12,7 @@ sections:
 
       ### **Until August 31'st 2021.**
 
-      **Regular price $100**
+      **Regular price is normally $100**
     actions: []
     image_alt: lorem-ipsum
     media_position: top
