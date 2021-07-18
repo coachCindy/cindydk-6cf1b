@@ -24,15 +24,19 @@ sections:
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
   - title_align: center
     content: >
-      ## Pricing
+      ## Summer offer; $45 per session
+
+
+      Normal price $100 per session.
+
+
+      ## &#xA;Pricing
 
 
       Depends on you and your goals and whether you want an intensive
       collaboration with a short time frame or stretched across weeks and
       months. Other options could be coaching for your team at work or you and
       your partner wanting relationship coaching.
-
-
 
 
       After the free 30-minute call I will be able to provide you with ballpark
