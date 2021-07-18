@@ -22,17 +22,10 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/kees-streefkerk-Adl90-aXYwA-unsplash.jpg
-  - content: >-
-      ## Lorem ipsum
+  - content: |
+      ## Summer offer: $45 per session
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Until August 31'st 2021.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
