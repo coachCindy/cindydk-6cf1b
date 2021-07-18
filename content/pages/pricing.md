@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-  - title_align: left
+  - title_align: center
     content: >
       ## Pricing
 
