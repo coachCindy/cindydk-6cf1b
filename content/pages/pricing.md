@@ -57,7 +57,7 @@ sections:
     type: features_section
     background_image: images/raphael-biscaldi-7RQf2X6aXXI-unsplash.jpg
   - title: Pricing
-    subtitle: Summer officer
+    subtitle: Summer offer
     actions: []
     grid_items: []
     grid_cols: three
