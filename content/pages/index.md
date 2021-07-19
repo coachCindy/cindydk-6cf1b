@@ -35,12 +35,16 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          We chose Cindy as our relationship coach to gain clarity on where we
+          wanted our relationship to go. Cindy was very tentative, listened and
+          guided us through the process. We ended the conversation with an
+          accountability assignment designed to manifest our goals for the
+          future. We will be hiring Cindy again and would strongly recommend
+          anyone who needs a push to act on their goals to do the same.
 
 
-          **Miles Tone,** *CEO, Studio*
+          *   **T. & G., ***a*** ***couple in everyday gridlock*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
