@@ -5,7 +5,7 @@ sections:
     title: 'Hi, I’m Cindy. I help you get...'
     subtitle: >-
       Clarity. Motivation. Enhanced focus. Sustainable changes. Better
-      relations. Sounds good? It's your life - level up!
+      relations. Sounds good? It's your life - let's level up!
     actions:
       - label: Book here - 1st session is free (30 min)
         url: /contact
