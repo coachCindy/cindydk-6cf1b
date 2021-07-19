@@ -44,7 +44,7 @@ sections:
           anyone who needs a push to act on their goals to do the same.
 
 
-          *   **T. & G., ***a*** ***couple in everyday gridlock*
+          *   T. & G.,* a* *couple in everyday gridlock*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
