@@ -35,7 +35,7 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+        image: images/joe-shields-dLij9K4ObYY-unsplash(1).jpg
         image_position: left
         image_width: twenty-five
       - content: >
