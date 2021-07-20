@@ -2,7 +2,9 @@
 title: About me
 seo:
   title: CINDY.dk
-  description: This is the about page
+  description: >-
+    Ready for tranformational and sustainable change? It's your life - Let's
+    level up!
   extra:
     - name: 'og:type'
       value: website
