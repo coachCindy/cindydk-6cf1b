@@ -46,7 +46,7 @@ sections:
 
 
           **T. & G**., *a couple stuck in everyday gridlock*
-        image: images/miles-tone.png
+        image: images/engin-akyurt-hIRK2fwo1Sc-unsplash.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
