@@ -13,7 +13,9 @@ seo:
       value: CINDY.dk
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: >-
+        Ready for tranformational and sustainable change? It's your life - Let's
+        level up!
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
