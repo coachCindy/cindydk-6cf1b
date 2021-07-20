@@ -31,8 +31,8 @@ sections:
           to help and support you towards your goals. She helped me prioritize
           my goals for my company and what profiles to hire. Cindy challenged me
           on my current level of comfort and how to take it up a level. We
-          worked together over a period of two months and it won't be the last
-          time.
+          worked together over a period of two months and I look forward to
+          collaborating with Cindy again in the future.
 
 
           **T.,** *CEO*
