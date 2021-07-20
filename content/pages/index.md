@@ -26,9 +26,12 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          Cindy is a passionate and inspiring coach. You can sense her eagerness
+          to help and support you towards your goals. She helped my prioritize
+          my goals for my company and what profiles to hire. Cindy pushed me on
+          my current level of comfort and how to take it up a level. We worked
+          together over a period of two months and a it won't be the last time.
 
 
           **Hanson Deck,** *App Developer, Studio*
