@@ -28,7 +28,7 @@ sections:
     grid_items:
       - content: >
           Cindy is a passionate and inspiring coach. You can sense her eagerness
-          to help and support you towards your goals. She helped my prioritize
+          to help and support you towards your goals. She helped me prioritize
           my goals for my company and what profiles to hire. Cindy challenged me
           on my current level of comfort and how to take it up a level. We
           worked together over a period of two months and it won't be the last
