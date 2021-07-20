@@ -18,7 +18,7 @@ seo:
         level up!
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/IMG_20210123_213855_209.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
