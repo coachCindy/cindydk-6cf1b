@@ -26,7 +26,9 @@ seo:
     - name: 'twitter:title'
       value: CINDY.dk
     - name: 'twitter:description'
-      value: This is the about page
+      value: >-
+        Ready for tranformational and sustainable change? It's your life - Let's
+        level up!
     - name: 'twitter:image'
       value: images/blue-strawberry.jpg
       relativeUrl: true
