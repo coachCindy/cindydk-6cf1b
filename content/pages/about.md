@@ -30,7 +30,7 @@ layout: page
 ---
 ![](/\_static/app-assets/69B5AC3D-19F8-4AB0-B4A8-C23B3B25DF24.png)
 
-The only thing I love more than self-development is meeting a new client and figuring out together how we can create sustainable change for them. Working as a freelance coach exposes me to many types of people from all sorts of professions.
+The only thing I love more than self-development is meeting a new client and figuring out together how we can create sustainable change for them. Working as a freelance coach exposes me to many types of people from all sorts of professions. I've worked with CEOs and professional athletes to stay-at-home moms and couples. 
 
 ## Credentials
 
@@ -45,6 +45,5 @@ First I help you gain awareness and clarity about what you want to change, then 
 I am very passionate about the Enneagram approach and I plan on becoming a practitioner within the next year. The Enneagram is a nine-sided figure used in a particular system of analysis to represent the spectrum of possible personality types. The Enneagram helps us understand how people react to stress. By describing how each Enneatype adapts and responds to both stressful and supportive situations, the Enneagram shows opportunities for personal development and provides a foundation for the understanding of others. It can be a great tool to navigate and improve one's human relations.
 
 I believe it's better to be an original because it's worth more than a copy :)
-
 
 And remember; it's YOUR life - level up!
