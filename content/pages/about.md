@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: CINDY.dk
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
