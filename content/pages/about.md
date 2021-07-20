@@ -1,7 +1,7 @@
 ---
 title: About me
 seo:
-  title: About
+  title: CINDY.dk
   description: This is the about page
   extra:
     - name: 'og:type'
