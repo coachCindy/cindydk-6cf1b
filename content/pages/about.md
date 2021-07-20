@@ -34,6 +34,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+![](https://cindydk-test.netlify.app/images/RightSizePic.png)
+
 
 
 The only thing I love more than self-development is meeting a new client and figuring out together how we can create sustainable change for them. Working as a freelance coach exposes me to many types of people from all sorts of professions. I've worked with CEOs and professional athletes to stay-at-home moms and couples.
@@ -52,4 +54,4 @@ I am very passionate about the Enneagram approach and I plan on becoming a pract
 
 I believe it's better to be an original because it's worth more than a copy :)
 
-And remember; it's YOUR life - level up!
+And remember; it's YOUR life - level up!![](https://cindydk-test.netlify.app/images/RightSizePic.png)
