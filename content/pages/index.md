@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Cindy. With me as your personal coach you can enhance...'
     subtitle: >-
-      Clarity. Motivation. Enhanced focus. Sustainable changes. Better
+      Clarity. Motivation. Focus. Make sustainable changes. Develop better
       relations. Sounds good? It's your life - let's level up!
     actions:
       - label: Book here - 1st session is free (30 min)
