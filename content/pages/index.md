@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Cindy.you get...'
+    title: 'Hi, I’m Cindy. With me as your personal coach you can enhance...'
     subtitle: >-
       Clarity. Motivation. Enhanced focus. Sustainable changes. Better
       relations. Sounds good? It's your life - let's level up!
