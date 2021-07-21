@@ -107,7 +107,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Cindy.dk - Level up
+  title: CINDY.dk - Level Up Coaching
   description: Clarity. Motivation. Enhanced focus. Sustainable changes. Better relations!
   extra:
     - name: 'og:type'
