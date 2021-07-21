@@ -62,17 +62,6 @@
                 "new_window": true
             },
             {
-                "label": "WhatsApp",
-                "url": "+4553537735",
-                "style": "link",
-                "has_icon": true,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/cindylegarth",
                 "style": "link",
