@@ -52,7 +52,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
-  - title: lorem-ipsum
+  - title: Lad os tage en snak
     subtitle: lorem-ipsum
     title_align: left
     content_align: left
