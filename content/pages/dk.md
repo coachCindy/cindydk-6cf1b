@@ -19,7 +19,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: Book
+      - label: 'Book her - 1. '
         url: '#'
         style: link
         has_icon: false
