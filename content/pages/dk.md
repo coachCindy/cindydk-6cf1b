@@ -53,7 +53,6 @@ sections:
     type: hero_section
     background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
   - title: Lad os tage en snak
-    subtitle: lorem-ipsum
     title_align: left
     content_align: left
     form_position: bottom
