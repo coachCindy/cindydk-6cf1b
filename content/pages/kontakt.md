@@ -21,7 +21,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Navn
         default_value: Your name
         is_required: true
       - input_type: email
