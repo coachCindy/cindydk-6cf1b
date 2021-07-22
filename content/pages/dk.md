@@ -104,11 +104,11 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - content: |
-      ## **Summer offer: $45 per session**&#xA;
+      ## **Sommer tilbud: Kr.275,- per session**&#xA;
 
-      ### **Until August 31'st 2021.**
+      ### **Gælder indtil 31. august 2021.**
 
-      **Save $55 with this offer, regular price is $100 per session**
+      **Spar kr.375,- med tilbuddet, normalpris er kr.650,- per session**
     actions: []
     image_alt: lorem-ipsum
     media_position: top
