@@ -7,7 +7,7 @@ sections:
       Tak fordi du kontaktede mig. Jeg vender tilbage til dig hurtigst muligt.
       Hav en dejlig dag!
     actions:
-      - label: Back to homepage
+      - label: 'TIlbage '
         url: /
         style: primary
         has_icon: true
