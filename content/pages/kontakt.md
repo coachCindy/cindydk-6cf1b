@@ -37,7 +37,7 @@ sections:
         name: Konsensus
         label: >-
           I er indforstået med at formularen her giver Cindy ret til at kontakte
-          mig
+          mig.
         is_required: true
     submit_label: Send Message
     align_vert: top
