@@ -79,7 +79,6 @@ sections:
       - input_type: text
         name: Dit navn
         label: Navn
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
