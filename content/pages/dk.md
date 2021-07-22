@@ -77,7 +77,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: DIt navn
+        name: Dit navn
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
