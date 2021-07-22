@@ -19,7 +19,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: 'Book her - 1. samtale '
+      - label: Book her - 1. samtale er gratis
         url: '#'
         style: link
         has_icon: false
