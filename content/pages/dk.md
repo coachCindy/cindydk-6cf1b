@@ -101,7 +101,7 @@ sections:
         name: Konsent
         label: >-
           Jeg er indforstået med at ved indsendelse af denne formular giver jeg
-          Cindy lov til at 
+          Cindy lov til at kontakte mig.
         default_value: lorem-ipsum
         options: []
         is_required: false
