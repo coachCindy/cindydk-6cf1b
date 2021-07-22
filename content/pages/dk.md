@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Book her - 1. samtale er gratis (30 min)
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
