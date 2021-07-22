@@ -40,6 +40,27 @@ sections:
     background_image_repeat: repeat
     type: hero_section
     background_image: images/Cindy-Legarth-black-letters-cropped.png
+  - content: |
+      ## **Sommer tilbud: Kr.275,- per session**&#xA;
+
+      ### **Gælder indtil 31. august 2021.**
+
+      **Spar kr.375,- med tilbuddet, normalpris er kr.650,- per session**
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
@@ -103,27 +124,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - content: |
-      ## **Sommer tilbud: Kr.275,- per session**&#xA;
-
-      ### **Gælder indtil 31. august 2021.**
-
-      **Spar kr.375,- med tilbuddet, normalpris er kr.650,- per session**
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
 seo:
   title: ''
   description: ''
