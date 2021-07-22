@@ -4,7 +4,7 @@ sections:
   - title: >-
       Hej, jeg hedder Cindy. Velkommen til. Med mig som din personlige coach kan
       vi sammen skabe...
-    subtitle: Overblik. Motivation. Fokus. Varige ændringer.
+    subtitle: Overblik. Motivation. Fokus. Varige ændringer. Bed
     content: >-
       ## Lorem ipsum
 
