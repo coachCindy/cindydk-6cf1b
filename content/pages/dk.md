@@ -85,7 +85,7 @@ sections:
         default_value: Dit navn
       - input_type: email
         name: Din mailadresse
-        label: lorem-ipsum
+        label: Email
         default_value: lorem-ipsum
         options: []
         is_required: false
