@@ -19,7 +19,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: Book her - 1. samtale er gratis
+      - label: Book her - 1. samtale er gratis (30 min)
         url: '#'
         style: link
         has_icon: false
