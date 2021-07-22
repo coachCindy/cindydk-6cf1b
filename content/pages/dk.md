@@ -19,7 +19,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: 'Book her - 1. '
+      - label: 'Book her - 1. samtale '
         url: '#'
         style: link
         has_icon: false
