@@ -53,44 +53,6 @@ sections:
     type: hero_section
     background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
     title: Sommer Tilbud
-  - title_align: left
-    content: >
-      ## Prisen
-
-
-      Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
-      samarbejde med en kort tidsramme, eller spredt ud over flere uger og/eller
-      måneder. En anden mulighed kunne være coaching af et team i din virksomhed
-      eller organisation. Det kunne også være du og din partner gerne ville
-      blive klogere på eller skabe mere fælles fokus i jeres relation
-      fremadrettet.
-
-
-      Efter den gratis 30-minutters samtale, vil jeg kunne give dig et overslag
-      og hvis du vælger vi skal arbejde sammen, sender jeg dig et detaljeret
-      tilbud udfra de detajler vi har aftalt.
-
-
-      Timepris (indtil 31/8-21): Kr.299,- (45-60min)
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: Kontakt mig
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
   - title: Lad os tage en snak
     title_align: left
     content_align: left
