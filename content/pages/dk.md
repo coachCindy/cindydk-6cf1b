@@ -86,7 +86,7 @@ sections:
       - input_type: email
         name: Din mailadresse
         label: Email
-        default_value: Din email adresse
+        default_value: Din email
         options: []
         is_required: false
         type: form_field
