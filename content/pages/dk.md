@@ -6,7 +6,7 @@ sections:
       vi sammen skabe...
     subtitle: >-
       Overblik. Motivation. Fokus. Varige ændringer. Bedre relationer. Lyder det
-      godt? Det er 
+      godt? Det er DIT
     content: >-
       ## Lorem ipsum
 
