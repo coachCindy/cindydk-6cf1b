@@ -106,17 +106,24 @@ sections:
     type: form_section
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Prisen&#xA;&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
+      samarbejde med en kort tidsramme, eller spredt ud over flere uger og/eller
+      måneder. En anden mulighed kunne være coaching af et team i din virksomhed
+      eller organisation. Det kunne også være du og din partner gerne ville
+      blive klogere på eller skabe mere fælles fokus i jeres relation
+      fremadrettet.
 
 
-      - Lorem ipsum
+      Efter den gratis 30-minutters samtale, vil jeg kunne give dig et overslag
+      og hvis du vælger vi skal arbejde sammen, sender jeg dig et detaljeret
+      tilbud udfra de detajler vi har aftalt.
 
-      - dolor sit amet
+
+      Timepris (indtil 31/8-21): Kr.299,- (45-60min)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
