@@ -34,7 +34,7 @@ sections:
         label: Besked
         default_value: Din besked
       - input_type: checkbox
-        name: consent
+        name: Konsent
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
