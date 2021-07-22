@@ -3,7 +3,9 @@ title: Contact
 sections:
   - type: hero_section
     title: Kontakt Mig
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      Udfyld og send formularen nedenfor - så vender jeg tilbage indenfor 1
+      arbejdsdag
     align: center
     padding_top: medium
     padding_bottom: medium
