@@ -104,7 +104,7 @@ sections:
           Cindy lov til at kontakte mig.
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Send besked
     align_vert: top
