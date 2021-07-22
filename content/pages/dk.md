@@ -105,17 +105,12 @@ sections:
     type: form_section
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## **Summer offer: $45 per session**&#xA;
 
+      ### **Until August 31'st 2021.**
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      **Save $55 with this offer, regular price is $100 per session**
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
