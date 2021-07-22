@@ -105,7 +105,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - content: >
-      ## Prisen&#xA;&#xA;
+      ##
 
 
       Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
