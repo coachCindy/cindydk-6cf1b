@@ -1,7 +1,9 @@
 ---
 title: Dansk
 sections:
-  - title: 'Hej, jeg hedder Cindy. Velkommen til.'
+  - title: >-
+      Hej, jeg hedder Cindy. Velkommen til. Med mig som din personlige coach kan
+      vi sammen skabe...
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
