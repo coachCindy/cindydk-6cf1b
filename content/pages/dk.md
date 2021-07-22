@@ -68,7 +68,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    content_align: left
+    content_align: right
     form_position: bottom
     form_width: fifty
     form_layout: stacked
