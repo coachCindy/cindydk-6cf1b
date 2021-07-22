@@ -35,9 +35,7 @@ sections:
         default_value: Din besked
       - input_type: checkbox
         name: Konsensus
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: I er indforstået med at
         is_required: true
     submit_label: Send Message
     align_vert: top
