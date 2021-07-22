@@ -6,7 +6,7 @@ sections:
       vi sammen skabe...
     subtitle: >-
       Overblik. Motivation. Fokus. Varige ændringer. Bedre relationer. Lyder det
-      godt? Det er DIT liv - lad os 
+      godt? Det er DIT liv - lad os tage det til næste level
     content: >-
       ## Lorem ipsum
 
