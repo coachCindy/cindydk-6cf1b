@@ -53,8 +53,7 @@ sections:
     type: hero_section
     background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
     title: Sommer Tilbud
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     title_align: left
     content: >
       ## Prisen
