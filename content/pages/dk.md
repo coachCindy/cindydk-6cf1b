@@ -28,7 +28,7 @@ sections:
     background_color: primary
     background_image_opacity: 8
     background_image_size: contain
-    background_image_position: center center
+    background_image_position: left top
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/Cindy-Legarth-black-letters-cropped.png
