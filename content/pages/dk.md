@@ -19,7 +19,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Book
         url: '#'
         style: link
         has_icon: false
