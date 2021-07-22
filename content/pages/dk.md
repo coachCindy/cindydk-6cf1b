@@ -82,6 +82,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: Dit navn
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
