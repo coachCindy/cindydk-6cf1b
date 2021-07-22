@@ -1,7 +1,7 @@
 ---
 title: Dansk
 sections:
-  - title: lorem-ipsum
+  - title: 'Hej, jeg hedder Cindy. Velkommen til.'
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
