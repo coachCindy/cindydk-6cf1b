@@ -35,7 +35,7 @@ sections:
         default_value: Din besked
       - input_type: checkbox
         name: Konsensus
-        label: I er indforstået med at
+        label: 'I er indforstået med at formularen '
         is_required: true
     submit_label: Send Message
     align_vert: top
