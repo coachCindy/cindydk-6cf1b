@@ -57,8 +57,7 @@ sections:
     subtitle: lorem-ipsum
     title_align: left
     content: >
-      Prisen
-
+      ## Prisen
 
 
       Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
