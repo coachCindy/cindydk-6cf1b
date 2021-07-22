@@ -123,6 +123,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
 seo:
   title: ''
   description: ''
