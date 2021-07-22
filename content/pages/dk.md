@@ -105,9 +105,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - content: >
-      ##
-
-
       Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
       samarbejde med en kort tidsramme, eller spredt ud over flere uger og/eller
       måneder. En anden mulighed kunne være coaching af et team i din virksomhed
