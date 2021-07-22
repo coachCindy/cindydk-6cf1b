@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: TAK!
     subtitle: >-
-      Thank you for reaching out to me. I will get back in touch with you soon.
-      Have a great day - it's your life!
+      Tak fordi du kontaktede mig. Jeg vender tilbage til dig hurtigst muligt.
+      Hav en dejlig dag!
     actions:
       - label: Back to homepage
         url: /
