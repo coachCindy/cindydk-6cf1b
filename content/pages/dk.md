@@ -99,7 +99,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: Konsent
-        label: 'Jeg er indforstået med at ved indsendelse af denne '
+        label: Jeg er indforstået med at ved indsendelse af denne formular
         default_value: lorem-ipsum
         options: []
         is_required: false
