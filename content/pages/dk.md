@@ -92,7 +92,7 @@ sections:
         type: form_field
       - input_type: text
         name: Besked
-        label: lorem-ipsum
+        label: Besked
         default_value: lorem-ipsum
         options: []
         is_required: false
