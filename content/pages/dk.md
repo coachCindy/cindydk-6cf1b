@@ -99,7 +99,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: Konsent
-        label: Jeg er indforstået med a
+        label: Jeg er indforstået med at
         default_value: lorem-ipsum
         options: []
         is_required: false
