@@ -34,7 +34,7 @@ sections:
         label: Besked
         default_value: Din besked
       - input_type: checkbox
-        name: Konsensus
+        name: Samtykke
         label: >-
           Jeg er indforstået med at formularen her giver Cindy ret til at
           kontakte mig.
