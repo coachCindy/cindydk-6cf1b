@@ -39,7 +39,7 @@ sections:
           I er indforstået med at formularen her giver Cindy ret til at kontakte
           mig.
         is_required: true
-    submit_label: Send Message
+    submit_label: Send Besked
     align_vert: top
     padding_top: medium
     padding_bottom: medium
