@@ -84,7 +84,7 @@ sections:
         type: form_field
         default_value: Dit navn
       - input_type: email
-        name: 'DIn '
+        name: Din mailadresse
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
