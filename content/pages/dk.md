@@ -7,17 +7,6 @@ sections:
     subtitle: >-
       Overblik. Motivation. Fokus. Varige ændringer. Bedre relationer. Lyder det
       godt? Det er DIT liv - lad os tage det til næste level!
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions:
       - label: Book her - 1. samtale er gratis (30 min)
         url: '#'
