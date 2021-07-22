@@ -80,7 +80,7 @@ sections:
         name: Dit navn
         label: Navn
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         default_value: Dit navn
       - input_type: text
