@@ -93,7 +93,7 @@ sections:
       - input_type: text
         name: Besked
         label: Besked
-        default_value: lorem-ipsum
+        default_value: Din besked
         options: []
         is_required: false
         type: form_field
