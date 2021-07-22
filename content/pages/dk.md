@@ -103,8 +103,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: lorem-ipsum
-    content: |
+  - content: |
       ## **Summer offer: $45 per session**&#xA;
 
       ### **Until August 31'st 2021.**
