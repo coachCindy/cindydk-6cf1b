@@ -55,25 +55,6 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
-    content: >
-      ## Prisen
-
-
-      Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
-      samarbejde med en kort tidsramme, eller spredt ud over flere uger og/eller
-      måneder. En anden mulighed kunne være coaching af et team i din virksomhed
-      eller organisation. Det kunne også være du og din partner gerne ville
-      blive klogere på eller skabe mere fælles fokus i jeres relation
-      fremadrettet.  
-
-
-      Efter den gratis 30-minutters samtale, vil jeg kunne give dig et overslag
-      og hvis du vælger vi skal arbejde sammen, sender jeg dig et detaljeret
-      tilbud udfra de detajler vi har aftalt.
-
-
-
-      Timepris (indtil 31/8-21): Kr.299,- (45-60min)
     content_align: left
     form_position: bottom
     form_width: fifty
