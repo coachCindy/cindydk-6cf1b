@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Dansk
 sections: []
 seo:
   title: ''
