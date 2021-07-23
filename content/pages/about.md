@@ -59,7 +59,7 @@ Transformative coaching will help the executive gain better self-awareness. Some
 How could transformative coaching be applied to coaching executives in the workplace?
 On a practical level it would be easy and highly beneficial to do executive management training led by a trained coach. As mentioned earlier, change comes from the leaders. Implementing transformative coaching as a tool when doing employee development planning, would lead to an entirely different type of conversation and most likely inspire more personal ownership for employee tasks ahead in the future.
 
-A smart HR executive and certified master coach once told me ‘Coaching executives can be used in relation to everything 😊’.
+
 
 ## Enneagram
 
