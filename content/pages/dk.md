@@ -9,7 +9,7 @@ sections:
       godt? Det er DIT liv - lad os tage det til næste level!
     actions:
       - label: Book her - 1. samtale er gratis (30 min)
-        url: /kontakt
+        url: 'https://calendly.com/cindydk'
         style: primary
         has_icon: false
         icon: arrow-left
