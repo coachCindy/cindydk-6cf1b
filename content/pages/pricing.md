@@ -55,7 +55,7 @@ sections:
     form_id: ContactMe
     form_action: Contact me
     form_fields: []
-    submit_label: Book
+    submit_label: Book here
     align_vert: middle
     padding_top: small
     padding_bottom: small
