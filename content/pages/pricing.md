@@ -65,6 +65,7 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: form_section
+    form_action: 'https://calendly.com/cindydk'
 seo:
   title: Pricing
   description: This is the pricing page
