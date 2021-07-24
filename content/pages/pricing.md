@@ -53,7 +53,6 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: ContactMe
-    form_action: Contact me
     form_fields: []
     submit_label: Book here
     align_vert: middle
