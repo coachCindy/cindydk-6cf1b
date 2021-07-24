@@ -8,7 +8,7 @@ sections:
       relations. Sounds good? It's your life - let's level up!
     actions:
       - label: Book here - 1st session is free (30 min)
-        url: /contact
+        url: 'https://calendly.com/cindydk'
         style: primary
     image: images/RightSizePic.png
     image_alt: A smiling woman
