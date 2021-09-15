@@ -32,9 +32,9 @@ sections:
     type: hero_section
     background_image: images/Cindy-Legarth-black-letters-cropped.png
   - content: |
-      ## **Sommer tilbud: Kr.299,- per session**&#xA;
+      ## **Sensommer tilbud: Kr.299,- per session**&#xA;
 
-      ### **Gælder indtil 31. august 2021.**
+      ### **Gælder indtil 15. oktober 2021.**
 
       **Spar kr.351,- med tilbuddet, normalpris er kr.650,- per session**
     actions: []
