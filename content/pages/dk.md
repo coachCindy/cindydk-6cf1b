@@ -67,7 +67,7 @@ sections:
       tilbud udfra de detajler vi har aftalt.
 
 
-      Timepris (indtil 31/8-21): Kr.299,- (45-60min)
+      Timepris (indtil 15/10-21): Kr.299,- (45-60min)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
