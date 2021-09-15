@@ -44,7 +44,7 @@ sections:
       proposal once we discuss the details.
 
 
-      Hourly rate (until Aug.31 st. 2021):
+      Hourly rate (until Oct.15 th. 2021):
 
       $45 (45-60min)
     content_align: left
