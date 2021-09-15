@@ -8,9 +8,9 @@ sections:
     padding_top: large
     padding_bottom: small
   - content: |
-      ## **Summer offer: $45 per session**
+      ## **Late Summer offer: $45 per session**
 
-      ### **Until August 31'st 2021.**
+      ### **Until October 15'th 2021.**
 
       **Save $55 with this offer, regular price is $100 per session**
     actions: []
