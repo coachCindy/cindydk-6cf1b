@@ -10,7 +10,7 @@ sections:
   - content: |
       ## **Now is the time offer: $45 per session**
 
-      ### **Until January 15'th 2022.**
+      ### **Until March 15'th 2022.**
 
       **Save $55 with this offer, regular price is $100 per session**
     actions: []
