@@ -34,7 +34,7 @@ sections:
   - content: |
       ## **NU skal det være tilbud: Kr.299,- per session**&#xA;
 
-      ### **Gælder indtil 15. januar 2022.**
+      ### **Gælder indtil 15. Marts 2022.**
 
       **Spar kr.351,- med tilbuddet, normalpris er kr.650,- per session**
     actions: []
