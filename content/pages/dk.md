@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Book her - 1. samtale er gratis (30 min)
         url: 'https://calendly.com/cindydk'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
