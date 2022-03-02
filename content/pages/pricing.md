@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
   - title_align: center
     content: >
       ## Pricing
