@@ -8,11 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - content: |
-      ## **Now is the time offer: $45 per session**
-
-      ### **Until March 15'th 2022.**
-
-      **Save $55 with this offer, regular price is $100 per session**
+      ****
     actions: []
     image_alt: Beach background
     media_position: top
