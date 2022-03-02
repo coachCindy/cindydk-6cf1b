@@ -7,23 +7,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-  - content: |
-      ****
-    actions: []
-    image_alt: Beach background
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    background_image: images/rsz_ali-abdul-rahman-9itl-03hlao-unsplash.jpg
   - title_align: center
     content: >
       ## Pricing
