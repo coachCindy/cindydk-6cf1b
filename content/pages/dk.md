@@ -31,22 +31,6 @@ sections:
     background_image_repeat: repeat
     type: hero_section
     background_image: images/Cindy-Legarth-black-letters-cropped.png
-  - content: |
-      ****
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - content: >
       Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
       samarbejde med en kort tidsramme, eller spredt ud over flere uger og/eller
