@@ -24,7 +24,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: secondary
+    background_color: primary
     background_image_opacity: 8
     background_image_size: contain
     background_image_position: left top
