@@ -52,7 +52,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/ali-abdul-rahman-9Itl-03hLao-unsplashTEST.png
-    title: Nu skal det være Tilbud
   - content: >
       Afhænger af dig, dine mål og hvorvidt du foretrækker et intensivt
       samarbejde med en kort tidsramme, eller spredt ud over flere uger og/eller
