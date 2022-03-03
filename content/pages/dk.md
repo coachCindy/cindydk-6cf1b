@@ -2,7 +2,7 @@
 title: Dansk
 sections:
   - title: >-
-      Hej, jeg hedder Cindy. Velkommen til. Med mig som din mentale træner kan
+      Hej, jeg hedder Cindy. Velkommen til. Med mig som din mindset træner kan
       vi sammen skabe...
     subtitle: >-
       Overblik. Motivation. Fokus. Varige ændringer. Bedre relationer. Lyder det
