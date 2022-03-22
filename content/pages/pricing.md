@@ -26,7 +26,7 @@ sections:
 
       Hourly rate (until Mar.15 th. 2022):
 
-      $45 (45-60min)
+      $125 (45-60min)
     content_align: left
     form_position: bottom
     form_width: fifty
