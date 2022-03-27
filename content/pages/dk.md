@@ -45,7 +45,7 @@ sections:
       tilbud udfra de detajler vi har aftalt.
 
 
-      Timepris (indtil 15/3-22): Kr.799,- (45-60min)
+      Timepris: Kr.799,- (45-60min)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
