@@ -24,7 +24,7 @@ sections:
       proposal once we discuss the details.
 
 
-      Hourly rate (until Mar.15 th. 2022):
+      Hourly rate:
 
       $125 (45-60min)
     content_align: left
