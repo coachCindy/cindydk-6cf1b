@@ -45,7 +45,6 @@ sections:
       tilbud udfra de detajler vi har aftalt.
 
 
-      Timepris: Kr.799,- (45-60min)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
