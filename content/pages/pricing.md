@@ -24,9 +24,7 @@ sections:
       proposal once we discuss the details.
 
 
-      Hourly rate:
-
-      $125 (45-60min)
+      
     content_align: left
     form_position: bottom
     form_width: fifty
